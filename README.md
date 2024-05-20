@@ -1,11 +1,11 @@
-# Homework di Calcolo Numerico con Matlab
+# Numerical Calculus Homework with Matlab
 
-Questo repository contiene il codice relativo all'homework svolto per l'esame di Calcolo Numerico utilizzando Matlab.
+This repository contains the code related to the homework completed for the Numerical Calculus exam using Matlab.
 
-## Descrizione dell'Homework
+## Homework Description
 
-L'homework si concentra sull'implementazione di una funzione di riferimento utilizzando il numero di caratteri del mio nome e cognome come parametri. La funzione di riferimento deve avere esattamente 5 zeri, 2 minimi e 2 massimi all'interno di un intervallo specificato. Sono applicati diversi metodi numerici per analizzare il comportamento della funzione e trovare zeri, minimi e massimi.
+The homework focuses on implementing a reference function using the number of characters in my first and last name as parameters. The reference function must have exactly 5 zeros, 2 minima, and 2 maxima within a specified interval. Various numerical methods are applied to analyze the behavior of the function and to find zeros, minima, and maxima.
 
-## Avvertenza
+## Disclaimer
 
-Questo lavoro è stato svolto come parte di un progetto accademico e viene condiviso solo a scopo dimostrativo. 
+This work was carried out as part of an academic project and is shared for demonstration purposes only.
